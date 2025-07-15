@@ -36,8 +36,8 @@ Each feature represents a behavioral trait derived from a questionnaire or obser
 |-----------------------------|----------------------------------------------------|
 | `lets-find-those-verts.ipynb` | Main notebook with all code                      |
 | `submission/submission.csv` | Final Kaggle-formatted predictions                |
-| `requirements.txt`          | Python libraries used (optional)                  |
-| `data/` *(optional)*        | Contains `train.csv`, `test.csv`, etc. (if added) |
+| `requirements.txt`          | Python libraries used                             |
+| `data/`                     | Contains `train.csv`, `test.csv`, etc.            |
 
 ---
 
@@ -46,13 +46,10 @@ Each feature represents a behavioral trait derived from a questionnaire or obser
 The dataset used in this project was sourced from the Kaggle competition:  
 [🔗 Playground Series - Season 5, Episode 7](https://www.kaggle.com/competitions/playground-series-s5e7)
 
-If you're running this notebook locally:
-
-1. Download the following files from the competition:
    - `train.csv`
    - `test.csv`
    - `sample_submission.csv`
-2. Place them in a folder named `data/` in your project directory
+
 
 ---
 
